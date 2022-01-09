@@ -4,12 +4,12 @@ An experiment.
 
 ## TODO
 
-* [ ] Add https://github.com/google/guava
-* [ ] Add https://github.com/google/auto & https://github.com/google/auto/tree/master/value
-* [ ] Add a `Flags` API and Parser
-* [ ] Add logging
-* [ ] Add dependency injection
-* [ ] Add a `Discord` API
+* [x] Add https://github.com/google/guava
+* [x] Add https://github.com/google/auto & https://github.com/google/auto/tree/master/value
+* [x] Add a `Flags` API and Parser
+* [x] Add logging
+* [x] Add dependency injection
+* [x] Add a `Discord` API
 * [ ] Add SQLite Support
 * [ ] Add Mockito
-* [ ] Add https://truth.dev/
+* [x] Add https://truth.dev/
